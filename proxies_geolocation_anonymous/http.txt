@@ -1,0 +1,61 @@
+204.150.190.63:7458::United States::Virginia::Ashburn
+204.150.187.178:6609::United States::Virginia::Ashburn
+130.41.44.100:8080::United States::Virginia::Ashburn
+130.41.41.175:8080::United States::Georgia::Atlanta
+130.41.65.206:8080::United States::Oregon::Portland
+130.41.47.235:8080::United States::Virginia::Ashburn
+204.150.185.119:6319::United States::Virginia::Ashburn
+130.41.15.76:8080::United States::Colorado::Denver
+45.189.252.193:999::Mexico::Veracruz::Alvarado
+130.41.55.190:8080::United States::California::Los Angeles
+147.75.88.45:10002::United States::California::Sunnyvale
+143.198.242.86:8048::United Kingdom::England::London
+181.205.20.195:999::Colombia::Antioquia::Medellín
+190.107.233.232:999::Ecuador::Provincia de Pichincha::Hacienda Ibarra
+35.204.134.127:5566::Germany::North Rhine-Westphalia::Bonn
+139.224.226.173:1080::Poland::Mazovia::Warsaw
+180.180.171.123:8080::Thailand::Bangkok::Bangkok
+154.83.29.203:999::Venezuela::Distrito Federal::Caracas
+190.107.233.233:999::Ecuador::Provincia de Pichincha::Hacienda Ibarra
+190.107.233.231:999::Ecuador::Provincia de Pichincha::Hacienda Ibarra
+201.218.158.79:999::Peru::Lima::Lima
+167.114.96.27:9300::Denmark::Capital Region::Copenhagen
+190.107.237.26:999::Ecuador::Provincia del Guayas::Milagro
+181.205.20.198:999::Colombia::Antioquia::Medellín
+154.83.29.206:999::Venezuela::Distrito Federal::Caracas
+95.216.194.46:1081::Japan::Tokyo::Tokyo
+154.83.29.204:999::Venezuela::Distrito Federal::Caracas
+149.56.96.252:9300::Germany::Baden-Wurttemberg::Karlsruhe
+5.58.110.249:8080::Ukraine::Kyiv City::Kyiv
+71.19.249.118:8001::United States::North Carolina::Eden
+190.107.237.14:999::Ecuador::Provincia del Guayas::Milagro
+200.12.133.6:8080::Argentina::Mendoza::Mendoza
+190.107.237.13:999::Ecuador::Provincia del Guayas::Milagro
+61.7.146.7:8082::Thailand::Nakhon Sawan::Nakhon Sawan
+190.107.233.229:999::Ecuador::Provincia de Pichincha::Hacienda Ibarra
+190.107.237.21:999::Ecuador::Provincia del Guayas::Milagro
+181.205.20.197:999::Colombia::Antioquia::Medellín
+139.224.165.41:1080::United Kingdom::England::London
+190.131.192.134:999::Colombia::Departamento de Santander::Bucaramanga
+102.68.128.210:8080::Libya::Tripoli::Tripoli
+190.107.237.2:999::Ecuador::Provincia del Guayas::Milagro
+201.222.45.67:999::Chile::Santiago Metropolitan::La Pintana
+45.174.79.117:999::Mexico::Chihuahua::Chihuahua City
+103.170.22.50:8089::Indonesia::Central Java::Kemantren Satu
+101.53.154.137:2008::Germany::North Rhine-Westphalia::Bonn
+37.255.135.18:8080::Iran::Kurdistan Province::Sanandij
+202.75.97.82:47009::Indonesia::Jakarta::Jakarta
+37.53.103.6:3128::Ukraine::Kyiv City::Kyiv
+45.251.74.228:80::Indonesia::Jakarta::Jakarta
+138.0.91.227:999::Colombia::Departamento de Narino::Pasto
+138.59.187.33:666::Brazil::Bahia::Sao Francisco do Conde
+45.189.113.111:999::Ecuador::Provincia del Guayas::Milagro
+181.205.20.196:999::Colombia::Antioquia::Medellín
+177.234.217.92:999::Ecuador::Provincia de Pichincha::Quito
+191.97.16.113:999::Venezuela::Distrito Federal::Caracas
+103.112.151.13:8080::Bangladesh::Khulna Division::Khulna
+38.130.249.129:999::Dominican Republic::Provincia de Santo Domingo::Santo Domingo Este
+14.143.172.238:8080::India::National Capital Territory of Delhi::New Delhi
+190.2.210.115:999::Colombia::Departamento de Narino::Barbacoas
+109.200.159.30:8080::Ukraine::Crimea::Simferopol
+198.52.241.12:999::France::Île-de-France::Paris
