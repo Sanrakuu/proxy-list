@@ -43,7 +43,7 @@ jobs:
           git config --local user.name "miyukii-chan"
           git add -A
           git commit -m "Update Proxies (`date '+%F %H:%M %Z'`)" -a
-          git branch -u main
+          git branch -u origin/master
           
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
