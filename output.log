@@ -1,20 +1,16 @@
 None: 'NoneType' object has no attribute 'strip'
-https://raw.githubusercontent.com/almroot/proxylist/master/list.txt: 
-https://www.proxyscan.io/download?type=http: 
-https://www.proxyscan.io/download?type=socks4: 
-https://www.proxyscan.io/download?type=socks5: 
 Scraper :: HTTP   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [33/33] 00:00
 Scraper :: SOCKS4 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [16/16] 00:00
 Scraper :: SOCKS5 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [18/18] 00:00
-Checker :: HTTP   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [18004/18004] 00:00
-Checker :: SOCKS4 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [5217/5217]   00:00
-Checker :: SOCKS5 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [2051/2051]   00:00
+Checker :: HTTP   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [18315/18315] 00:00
+Checker :: SOCKS4 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [5172/5172]   00:00
+Checker :: SOCKS5 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [2137/2137]   00:00
 ┏━━━━━━━━━━┳━━━━━━━━━━┳━━━━━━━┓
 ┃ Protocol ┃ Working  ┃ Total ┃
 ┡━━━━━━━━━━╇━━━━━━━━━━╇━━━━━━━┩
-│ HTTP     │ 6 (0.0%) │ 18004 │
-│ SOCKS4   │ 1 (0.0%) │ 5217  │
-│ SOCKS5   │ 0 (0.0%) │ 2051  │
+│ HTTP     │ 6 (0.0%) │ 18315 │
+│ SOCKS4   │ 1 (0.0%) │ 5172  │
+│ SOCKS5   │ 7 (0.3%) │ 2137  │
 └──────────┴──────────┴───────┘
 Proxy folders have been created in the /home/runner/work/proxy-list/proxy-list 
 folder.
