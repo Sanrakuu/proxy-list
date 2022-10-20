@@ -1,16 +1,18 @@
 None: 'NoneType' object has no attribute 'strip'
+https://www.proxyscan.io/download?type=socks5: Cannot connect to host 
+www.proxyscan.io:443 ssl:default [Connection reset by peer]
 Scraper :: HTTP   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [33/33] 00:00
 Scraper :: SOCKS4 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [16/16] 00:00
 Scraper :: SOCKS5 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [18/18] 00:00
-Checker :: HTTP   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [18227/18227] 00:00
-Checker :: SOCKS4 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [5523/5523]   00:00
-Checker :: SOCKS5 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [3053/3053]   00:00
+Checker :: HTTP   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [18313/18313] 00:00
+Checker :: SOCKS4 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [5528/5528]   00:00
+Checker :: SOCKS5 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [2543/2543]   00:00
 ┏━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━┓
 ┃ Protocol ┃ Working   ┃ Total ┃
 ┡━━━━━━━━━━╇━━━━━━━━━━━╇━━━━━━━┩
-│ HTTP     │ 5 (0.0%)  │ 18227 │
-│ SOCKS4   │ 2 (0.0%)  │ 5523  │
-│ SOCKS5   │ 74 (2.4%) │ 3053  │
+│ HTTP     │ 5 (0.0%)  │ 18313 │
+│ SOCKS4   │ 2 (0.0%)  │ 5528  │
+│ SOCKS5   │ 13 (0.5%) │ 2543  │
 └──────────┴───────────┴───────┘
 Proxy folders have been created in the /home/runner/work/proxy-list/proxy-list 
 folder.
