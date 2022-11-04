@@ -1,16 +1,19 @@
 None: 'NoneType' object has no attribute 'strip'
+https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/http
+.txt: 
+https://raw.githubusercontent.com/roosterkid/openproxylist/main/SOCKS4_RAW.txt: 
 Scraper :: HTTP   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [33/33] 00:00
 Scraper :: SOCKS4 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [16/16] 00:00
 Scraper :: SOCKS5 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [18/18] 00:00
-Checker :: HTTP   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [6914/6914] 00:00
-Checker :: SOCKS4 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [5886/5886] 00:00
-Checker :: SOCKS5 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [3536/3536] 00:00
-┏━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━┓
-┃ Protocol ┃ Working   ┃ Total ┃
-┡━━━━━━━━━━╇━━━━━━━━━━━╇━━━━━━━┩
-│ HTTP     │ 12 (0.2%) │ 6914  │
-│ SOCKS4   │ 2 (0.0%)  │ 5886  │
-│ SOCKS5   │ 31 (0.9%) │ 3536  │
-└──────────┴───────────┴───────┘
+Checker :: HTTP   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [5544/5544] 00:00
+Checker :: SOCKS4 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [5995/5995] 00:00
+Checker :: SOCKS5 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [3807/3807] 00:00
+┏━━━━━━━━━━┳━━━━━━━━━━┳━━━━━━━┓
+┃ Protocol ┃ Working  ┃ Total ┃
+┡━━━━━━━━━━╇━━━━━━━━━━╇━━━━━━━┩
+│ HTTP     │ 9 (0.2%) │ 5544  │
+│ SOCKS4   │ 1 (0.0%) │ 5995  │
+│ SOCKS5   │ 6 (0.2%) │ 3807  │
+└──────────┴──────────┴───────┘
 Proxy folders have been created in the /home/runner/work/proxy-list/proxy-list 
 folder.
