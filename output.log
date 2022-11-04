@@ -1,18 +1,19 @@
 None: 'NoneType' object has no attribute 'strip'
-https://raw.githubusercontent.com/proxy4parsing/proxy-list/main/http.txt: 
-http://proxysearcher.sourceforge.net/Proxy%20List.php?type=socks: 
+https://www.proxyscan.io/download?type=socks4: 
+https://www.proxyscan.io/download?type=http: 
+https://www.proxyscan.io/download?type=socks5: 
 Scraper :: HTTP   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [33/33] 00:00
 Scraper :: SOCKS4 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [16/16] 00:00
 Scraper :: SOCKS5 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [18/18] 00:00
-Checker :: HTTP   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [6838/6838] 00:00
-Checker :: SOCKS4 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [5717/5717] 00:00
-Checker :: SOCKS5 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [3144/3144] 00:00
+Checker :: HTTP   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [7256/7256] 00:00
+Checker :: SOCKS4 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [5816/5816] 00:00
+Checker :: SOCKS5 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [3556/3556] 00:00
 ┏━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━┓
 ┃ Protocol ┃ Working   ┃ Total ┃
 ┡━━━━━━━━━━╇━━━━━━━━━━━╇━━━━━━━┩
-│ HTTP     │ 11 (0.2%) │ 6838  │
-│ SOCKS4   │ 2 (0.0%)  │ 5717  │
-│ SOCKS5   │ 3 (0.1%)  │ 3144  │
+│ HTTP     │ 10 (0.1%) │ 7256  │
+│ SOCKS4   │ 4 (0.1%)  │ 5816  │
+│ SOCKS5   │ 17 (0.5%) │ 3556  │
 └──────────┴───────────┴───────┘
 Proxy folders have been created in the /home/runner/work/proxy-list/proxy-list 
 folder.
