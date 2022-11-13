@@ -1,17 +1,17 @@
 None: 'NoneType' object has no attribute 'strip'
-https://raw.githubusercontent.com/mmpx12/proxy-list/master/socks5.txt: 
+https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/http.txt: 
 Scraper :: HTTP   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [33/33] 00:00
 Scraper :: SOCKS4 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [16/16] 00:00
 Scraper :: SOCKS5 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [18/18] 00:00
-Checker :: HTTP   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [7494/7494] 00:00
-Checker :: SOCKS4 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [5477/5477] 00:00
-Checker :: SOCKS5 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [1980/1980] 00:00
-┏━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━┓
-┃ Protocol ┃ Working   ┃ Total ┃
-┡━━━━━━━━━━╇━━━━━━━━━━━╇━━━━━━━┩
-│ HTTP     │ 10 (0.1%) │ 7494  │
-│ SOCKS4   │ 1 (0.0%)  │ 5477  │
-│ SOCKS5   │ 3 (0.2%)  │ 1980  │
-└──────────┴───────────┴───────┘
+Checker :: HTTP   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [7222/7222] 00:00
+Checker :: SOCKS4 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [5300/5300] 00:00
+Checker :: SOCKS5 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [1884/1884] 00:00
+┏━━━━━━━━━━┳━━━━━━━━━━┳━━━━━━━┓
+┃ Protocol ┃ Working  ┃ Total ┃
+┡━━━━━━━━━━╇━━━━━━━━━━╇━━━━━━━┩
+│ HTTP     │ 5 (0.1%) │ 7222  │
+│ SOCKS4   │ 5 (0.1%) │ 5300  │
+│ SOCKS5   │ 3 (0.2%) │ 1884  │
+└──────────┴──────────┴───────┘
 Proxy folders have been created in the /home/runner/work/proxy-list/proxy-list 
 folder.
