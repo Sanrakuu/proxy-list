@@ -1,20 +1,18 @@
 None: 'NoneType' object has no attribute 'strip'
 https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/prox
-ies-socks4.txt: 
-https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/socks4.txt: 
-https://raw.githubusercontent.com/roosterkid/openproxylist/main/SOCKS4_RAW.txt: 
+ies-socks5.txt: 
 Scraper :: HTTP   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [33/33] 00:00
 Scraper :: SOCKS4 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [16/16] 00:00
 Scraper :: SOCKS5 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [18/18] 00:00
-Checker :: HTTP   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [7811/7811] 00:00
-Checker :: SOCKS4 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [4883/4883] 00:00
-Checker :: SOCKS5 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [1973/1973] 00:00
+Checker :: HTTP   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [8032/8032] 00:00
+Checker :: SOCKS4 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [5292/5292] 00:00
+Checker :: SOCKS5 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% [2204/2204] 00:00
 ┏━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━┓
 ┃ Protocol ┃ Working   ┃ Total ┃
 ┡━━━━━━━━━━╇━━━━━━━━━━━╇━━━━━━━┩
-│ HTTP     │ 44 (0.6%) │ 7811  │
-│ SOCKS4   │ 3 (0.1%)  │ 4883  │
-│ SOCKS5   │ 3 (0.2%)  │ 1973  │
+│ HTTP     │ 47 (0.6%) │ 8032  │
+│ SOCKS4   │ 4 (0.1%)  │ 5292  │
+│ SOCKS5   │ 18 (0.8%) │ 2204  │
 └──────────┴───────────┴───────┘
 Proxy folders have been created in the /home/runner/work/proxy-list/proxy-list 
 folder.
